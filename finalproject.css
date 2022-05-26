@@ -1,0 +1,247 @@
+header
+	{
+		background-color: #1F5448;
+		height: 130px;
+		width: 1333px;
+	}
+
+.name
+	{
+		font-family: sans-serif;
+		font-size: 24px;
+		color: whitesmoke;
+		margin-top: -155px;
+		margin-left: 250px;
+	}
+
+.Links
+	{
+		font-family: sans-serif;
+		font-size: 18px;
+		margin-left: 1100.5px;
+		margin-top: -83px;
+		float: left;
+		word-spacing: 6px;
+		background-color: lightgrey;
+		padding-right: 25px;
+		padding-left: 35px;
+		padding-top: 12px;
+		padding-bottom: 12px;
+		border-top-left-radius: 23px;
+		border-bottom-left-radius: 23px;
+	}
+
+.profile-image
+	{
+		background-image: url(file:///C:/Users/Lenovo/Downloads/Prof.jpg);
+		background-size: contain;
+		background-repeat: no-repeat;
+		width: 180px;
+		height: 180px;
+		margin-top: -749px;
+		margin-left: 45px;
+		border-style: solid;
+		border-color: whitesmoke;
+		border-width: 4px;
+		border-radius: 800px;
+	}
+
+.web
+	{
+		font-size: 13;
+		font-family: sans-serif;
+		color: black;
+		float: left;
+		margin-top: -22px;
+		margin-left: 260px
+	}
+
+.pictures
+	{
+		font-size: 50px;
+		font-family: sans-serif;
+		color: black;
+		float: left;
+		margin-top: -10px;
+		margin-left: 260px
+	}
+
+.about
+	{
+		font-size: 50px;
+		font-family: sans-serif;
+		color: black;
+		float: left;
+		margin-top: -50px;
+		margin-left: 260px
+	}
+
+
+.footer
+
+	{
+		text-align: center;
+		font-size: 18px;
+		padding-right: 50px;
+		background-color: #1F5448;
+		color: whitesmoke;
+		float: left;
+		margin-top: 528px;
+		width: 1283px;
+	}
+.footer1
+
+	{
+		text-align: center;
+		font-size: 18px;
+		padding-right: 50px;
+		background-color: #1F5448;
+		color: whitesmoke;
+		float: left;
+		margin-top: 436px;
+		width: 1283px;
+	}
+
+.footer2
+
+	{
+		text-align: center;
+		font-size: 18px;
+		padding-right: 50px;
+		background-color: #1F5448;
+		color: whitesmoke;
+		float: left;
+		margin-top: 436px;
+		width: 1283px;
+	}
+
+
+.insta
+	{
+		float: right;
+		margin-top: -747px;
+		margin-right: 260px;
+	}
+
+.fb
+	{
+		float: right;
+		margin-top: -747px;
+		margin-right: 310px;
+
+	}
+.twit
+	{
+		float: right;
+		margin-top: -743px;
+		margin-right: 367px;
+
+	}
+
+.contbox
+	{
+		background-color: black;
+		color: whitesmoke;
+		opacity: 0.6;
+		height: 497px;
+		width: 375px;
+		float: right;
+		margin-top: -630px;
+		padding-left: 40px;
+		border-top-left-radius: 15px;
+		border-bottom-left-radius: 15px;
+
+	}
+
+.contbox1
+	{
+		background-color: black;
+		color: whitesmoke;
+		opacity: 0.6;
+		height: 430px;
+		width: 280px;
+		float: left;
+		margin-top: -550px;
+		padding-left: 50px;
+		border-top-right-radius: 15px;
+		border-bottom-right-radius: 15px;
+
+	}
+.contbox2
+	{
+		background-image: url(file:///C:/Users/Lenovo/Downloads/87cff3719839d05d04e6e118b515a2e8.jpg);
+		background-repeat: no-repeat;
+		font-size: 20px;
+		color: black;
+		height: 500px;
+		width: 690px;
+		float: right;
+		margin-top: -630px;
+		padding-left: 29px;
+		text-align:  justify-all;
+		
+	}
+.box 
+	{
+	width: 250px;
+	height: 270px;
+	background-image: url(file:///C:/Users/Lenovo/Downloads/photo-1603484477859-abe6a73f9366.avif);
+  	margin-top: 200px;
+  	margin-left: 180px;
+  	
+	}
+
+.img1
+	{
+		position: absolute;
+		margin-top: -245px;
+		margin-left: 200px;
+	}
+
+.box2
+	{
+	width: 300px;
+	height: 415px;
+	background-image: url(file:///C:/Users/Lenovo/Downloads/photo-1603484477859-abe6a73f9366.avif);
+  	margin-top: -355px;
+  	margin-left: 464px;
+  	
+	}
+
+.img2
+	{
+		position: absolute;
+		margin-top: -390px;
+		margin-left: 484px;
+	}
+
+.box3
+	{
+	width: 450px;
+	height: 230px;
+	background-image: url(file:///C:/Users/Lenovo/Downloads/photo-1603484477859-abe6a73f9366.avif);
+  	margin-top: -355px;
+  	margin-left: 800px;
+  	
+	}
+
+.img3
+	{
+		position: absolute;
+		margin-top: -215px;
+		margin-left: 830px;
+	}
+
+.arrow
+	{
+		margin-left: 170px;
+		float: left;
+		margin-top: -400px;
+	}
+.vid
+{
+		margin-left: 470px;
+		float: left;
+		margin-top: -400px;
+	}
+}
